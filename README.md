@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo Castillo</h1>
 <h3 align="center">A passionate Frontend Developer from Santiago - Chile</h3>
 
-- 🔭 I’m currently working on [Kibernum](https://www.rokketlabs.com/)
+- 🔭 I’m currently working on [Kibernum](https://usa.kibernum.com/)
 
 - 🌱 I’m currently learning **Flutter**
 
